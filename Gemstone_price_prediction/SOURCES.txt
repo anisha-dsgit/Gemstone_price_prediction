@@ -1,0 +1,7 @@
+README.md
+setup.py
+houseprice_project.egg-info/PKG-INFO
+houseprice_project.egg-info/SOURCES.txt
+houseprice_project.egg-info/dependency_links.txt
+houseprice_project.egg-info/requires.txt
+houseprice_project.egg-info/top_level.txt
