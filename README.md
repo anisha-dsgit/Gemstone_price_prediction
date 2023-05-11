@@ -2,11 +2,11 @@
 
 ### created an environment 
 ```
-conda create -p vene python=3.9 
+conda create -p env python=3.7
 ```
 ### activate the environment 
 ``` 
-conda activate venv 
+conda activate env 
 ```
 ## install requirements 
 ```
