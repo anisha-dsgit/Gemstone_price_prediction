@@ -1,10 +1,9 @@
-#  End to End ML project
-``` 
-create the environment
+# End to End ML project 
 ```
-### conda create -p venv python=3.9
+create an environment 
+```
+### conda create -p env python=3.7
 ```
 activate the environment 
 ```
-### conda activate venv 
-
+### conda activate env 
